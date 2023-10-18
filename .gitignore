@@ -3,3 +3,5 @@
 .venvs
 .vscode
 __pycache__
+.caption_env
+.images
